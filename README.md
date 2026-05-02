@@ -73,13 +73,13 @@ The platform helps users browse categories, check availability, and manage borro
 
 ## 🌐 Live Demo
 
-🔗 [https://book-borrow-gules.vercel.app](https://online-book-borrow.vercel.app)  
+🔗 [Project Live Link](https://online-book-borrow.vercel.app)  
 
 ---
 
 ## 📦 Repository
 
-🔗 [https://github.com/kolyanhabib/bookify  ](https://github.com/kolyanhabib/online-book-borrow)
+🔗 [Github Repository Link](https://github.com/kolyanhabib/online-book-borrow)
 
 ---
 
@@ -99,6 +99,6 @@ The platform helps users browse categories, check availability, and manage borro
 
 ```bash
 git clone https://github.com/kolyanhabib/online-book-borrow
-cd bookify
+cd online-book-borrow
 npm install
 npm run dev
