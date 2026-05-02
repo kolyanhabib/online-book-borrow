@@ -69,11 +69,36 @@ The platform helps users browse categories, check availability, and manage borro
 ✔ Desktop  
 
 ---
+---
+
+## 🌐 Live Demo
+
+🔗 [https://book-borrow-gules.vercel.app](https://online-book-borrow.vercel.app)  
+
+---
+
+## 📦 Repository
+
+🔗 [https://github.com/kolyanhabib/bookify  ](https://github.com/kolyanhabib/online-book-borrow)
+
+---
+
+
+## ⭐ Future Improvements
+
+- 🔐 Authentication system  
+- ❤️ Wishlist feature  
+- 📊 Dashboard analytics  
+- 🗄️ Database integration  
+
+---
+
+<p align="center">Made with ❤️ using Next.js & Tailwind</p>
 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/kolyanhabib/bookify.git
+git clone https://github.com/kolyanhabib/online-book-borrow
 cd bookify
 npm install
 npm run dev
