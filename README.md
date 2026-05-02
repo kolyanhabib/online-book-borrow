@@ -93,7 +93,6 @@ The platform helps users browse categories, check availability, and manage borro
 
 ---
 
-<p align="center">Made with ❤️ using Next.js & Tailwind</p>
 
 ## ⚙️ Installation
 
@@ -102,3 +101,8 @@ git clone https://github.com/kolyanhabib/online-book-borrow
 cd online-book-borrow
 npm install
 npm run dev
+```
+---
+
+
+<p align="center">Made with ❤️ using Next.js & Tailwind</p>
